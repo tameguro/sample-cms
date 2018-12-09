@@ -1,5 +1,5 @@
 {
-  "name": "simple-cms-system",
+  "name": "simple-cms",
   "version": "1.0.0",
   "description": "for NetlifyCMS tutorial.",
   "scripts": {
@@ -15,9 +15,9 @@
   "author": "Fujisawa Shin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fnobi/simple-cms-system/issues"
+    "url": "https://github.com/tameguro/sample-cms/issues"
   },
-  "homepage": "https://github.com/fnobi/simple-cms-system#readme",
+  "homepage": "https://github.com/tameguro/sample-cmsm#readme",
   "dependencies": {
     "mz": "^2.7.0",
     "pug": "^2.0.3"

@@ -7,7 +7,7 @@ This is very simple & minimal template for NetlifyCMS.
 ### 1. Click 「Deploy to Netlify」
 
 <!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/fnobi/simple-cms-system)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tameguro/sample-cms)
 
 * public directory: `public`
 * build command: `npm run build-post`

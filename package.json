@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/fnobi/simple-cms-system.git"
+    "url": "git+ssh://git@github.com/tameguro/simple-cms.git"
   },
   "keywords": [
     "netlify"
